@@ -1,0 +1,9 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+
+	<Script file="ConfigLayout.lua"/>
+	<Script file="ConfigMedia.lua"/>
+	<Script file="ConfigTools.lua"/>
+	<Script file="ConfigCombatFade.lua"/>
+	<Script file="Config.lua"/>
+
+</Ui>
