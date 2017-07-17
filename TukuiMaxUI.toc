@@ -1,0 +1,38 @@
+## Interface: 70200
+## Author: Maximvs
+## Version: 3.702
+## Title: |cffFFFC01MaxUI|r
+## Notes: MaxUI 3 edit for Tukui 17 Legion, http://www.tukui.org/addons/index.php?act=view&id=287 for more info.
+## Dependencies: Tukui
+## Thanks to: Tukz, Hydra, Darth Predator, Azilroka, Flyingboots and all other members of Tukui.org community.
+
+
+
+Config\Init.xml
+Locales\Init.xml
+Core\Init.xml
+Libs\Init.xml
+Medias\Init.xml
+
+Modules\Fonts\Init.xml
+Modules\ChatFrames\Init.xml
+Modules\Panels\Init.xml
+Modules\Maps\Init.xml
+Modules\ActionBars\Init.xml
+Modules\DataTexts\Init.xml
+Modules\Miscellaneous\Init.xml
+Modules\Nameplates\Init.xml
+Modules\Auras\Init.xml
+Modules\UnitFrames\UnitFrames.lua
+Modules\UnitFrames\Classes\Init.xml
+Modules\UnitFrames\Groups\Init.xml
+Modules\UnitFrames\Units\Init.xml
+Modules\Tooltips\Init.xml
+Modules\Inventory\Init.xml
+Modules\PetBattles\Init.xml
+Modules\Filger\Init.xml
+
+ 
+ 
+## X-Tukui-ProjectID: 287
+## X-Tukui-ProjectFolders: TukuiMaxUI
