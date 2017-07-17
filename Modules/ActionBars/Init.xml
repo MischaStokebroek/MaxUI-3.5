@@ -1,0 +1,9 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+
+	<Script file="ActionBars.lua"/>
+	<Script file="ShowHideButtons.lua"/>
+	<Script file="ActionHighlights.lua"/>
+	<Script file="HealingActionBars.lua"/>
+
+
+</Ui>

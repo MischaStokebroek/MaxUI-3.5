@@ -1,0 +1,10 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+
+	<Script file="GameMenuDT.lua"/>
+	<Script file="Quests.lua"/>
+	<Script file="Speed.lua"/>
+	<Script file="Battleground.lua"/>
+	<Script file="DataTexts.lua"/>
+
+
+</Ui>

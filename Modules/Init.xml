@@ -1,0 +1,18 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+
+	<Script file="Fonts\Init.xml"/>
+	<Script file="ChatFrames\Init.xml"/>
+	<Script file="Panels\Init.xml"/>
+	<Script file="Maps\Init.xml"/>
+	<Script file="ActionBars\Init.xml"/>
+	<Script file="DataTexts\Init.xml"/>
+	<Script file="Miscellaneous\Init.xml"/>
+	<Script file="NamePlates\Init.xml"/>
+	<Script file="Auras\Init.xml"/>
+	<Script file="UnitFrames\Init.xml"/>
+	<Script file="Tooltips\Init.xml"/>
+	<Script file="PetBattles\Init.xml"/>
+	<Script file="Inventory\Init.xml"/>
+	<Script file="Cooldowns\Init.xml"/>
+
+</Ui>

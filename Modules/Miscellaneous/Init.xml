@@ -1,0 +1,12 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+
+	<Script file="QuestLog.lua"/>
+	<Script file="ThreatBar.lua"/>
+	<Script file="AltPowerBar.lua"/>
+	<Script file="RepExpBars.lua"/>
+	<Script file="RaidTools.lua"/>
+	<Script file="Tools.lua"/>
+	<Script file="MasterLooter.lua"/>
+	<Script file="Misc.lua"/>
+
+</Ui>

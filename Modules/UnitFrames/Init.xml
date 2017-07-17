@@ -1,0 +1,7 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+
+	<Script file="Classes\Init.xml"/>
+	<Script file="Groups\Init.xml"/>
+	<Script file="Units\Init.xml"/>
+
+</Ui>
