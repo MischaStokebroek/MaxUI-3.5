@@ -2,7 +2,7 @@
 -- MaxUI 3.50 TukUI 17 - LEGION 7.0 -- v. 21-04-2017
 ------------------------------------------------------------------------------------------
 
---setting up CONFIGURATION.
+--setting up BASIC CONFIGURATION, standard Tukui Config options
 
 ------------------------------------------------------------------------------------------
 -- LOCALS
