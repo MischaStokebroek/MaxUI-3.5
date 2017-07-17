@@ -1,15 +1,14 @@
 ------------------------------------------------------------------------------------------
--- MaxUI 3.50 TukUI 17 - LEGION 7.0 -- v. 21-04-2017
+-- MaxUI 3.50 TukUI 17 - LEGION 7.0 -- v. 17-07-2017
 ------------------------------------------------------------------------------------------
 
---setting up CONFIGURATION.
+--setting up CONFIGURATION TOOLS added for MaxUI.
 
 ------------------------------------------------------------------------------------------
 -- LOCALS
 ------------------------------------------------------------------------------------------
 
 local T, C, L = Tukui:unpack()
-local class = RAID_CLASS_COLORS[select(2, UnitClass("player"))]
 
 ------------------------------------------------------------------------------------------
 -- in game configuration settings MaxUI Tools
@@ -21,11 +20,8 @@ C["MaxUI Tools"] = {
 	["Masterlooter"] = false,
 	["Tools"] = true,
 	["RaidTools"] = true, 
-	--["Battleground"] = false,
-	
 	["MaxUIMenu"] = false,
 	["GameMenu"] = true,
-	
 	["Bottomline"] = true,
 	["Topline"] = true,
 	["Locator"] = true,
