@@ -1,15 +1,14 @@
 ------------------------------------------------------------------------------------------
--- MaxUI 3.50 TukUI 17 - LEGION 7.0 -- v. 21-04-2017
+-- MaxUI 3.50 TukUI 17 - LEGION 7.0 -- v. 17-07-2017
 ------------------------------------------------------------------------------------------
 
---setting up CONFIGURATION.
+--setting up CONFIGURATION LAYOUT options added for MaxUI
 
 ------------------------------------------------------------------------------------------
 -- LOCALS
 ------------------------------------------------------------------------------------------
 
 local T, C, L = Tukui:unpack()
-local class = RAID_CLASS_COLORS[select(2, UnitClass("player"))]
 
 ------------------------------------------------------------------------------------------
 -- in game configuration settings MaxUI Layout
@@ -17,8 +16,6 @@ local class = RAID_CLASS_COLORS[select(2, UnitClass("player"))]
 
 C["MaxUI Layout"] = {
 
-	-- Maxui UnitFrames
-	--["MaxUIUF"] = true,
 	--Healing layout
 	["Heallayout"] = false,
 	--Melee Layout
